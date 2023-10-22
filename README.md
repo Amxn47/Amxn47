@@ -1,4 +1,4 @@
-[!MasterHead(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)][(https://amxn47.io)]
+[![Alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://amxn47.io)
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate graphic designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/298317430/original.gif">
