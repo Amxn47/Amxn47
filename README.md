@@ -1,4 +1,4 @@
-[![MasterHead][(https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr)(https://amxn47.io)]
+[![MasterHead][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0g_F3CIgE__aKGLeERW-Hu&ust=1698093186762000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDj6ZrAioIDFQAAAAAdAAAAABAJ)(https://amxn47.io)]
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate graphic designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/298317430/original.gif">
