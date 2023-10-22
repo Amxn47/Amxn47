@@ -1,4 +1,4 @@
-[![MasterHead]([https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif](https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr))](https://amxn47.io)
+[![MasterHead](https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr)(https://amxn47.io)
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate graphic designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/298317430/original.gif">
