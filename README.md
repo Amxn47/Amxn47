@@ -6,15 +6,11 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/298317430/original.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amxn47&label=Profile%20views&color=0e75b6&style=flat" alt="amxn47" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/298317430/original.gif" >
 
 <!-- --- -->
 
-- 🌱 Currently learning **Java Full Stack Development**
+- 🌱 Currently learning **DSA**
 - 🤝 Looking for **Career Opportunities**
 - 💬 Ask me about **Java and Web**
 - 📫 Reach me at: **amanverma21304@gmail.com**
@@ -25,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!--   LinkedIn -->
-  <a href="https://www.linkedin.com/in/amxn/" target="_blank">
+  <a href="https://www.linkedin.com/in/amxn/">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
