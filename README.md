@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/298317430/original.gif" >
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25yZmVhbHZuYXM4eGs5ajRsM2o5Zmcwb2p6YjQ1OTRiejVpYm43NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" >
 
 <!-- --- -->
 
