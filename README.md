@@ -1,5 +1,5 @@
-<a href="https:amxn47.io">
-  <img src="https://user-images.githubusercontent.com/7403819225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" width="300">
+<a href="https://amxn47.io">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" width="300" >
 </a>
 
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
@@ -47,12 +47,12 @@
 
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages" />
+    alt="Top Languages" height="150"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=en"
-    alt="GitHub Stats" />
+    alt="GitHub Stats" height="150"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amxn47&" alt="GitHub Streak" />
-</p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amxn47&" alt="GitHub Streak" />
+</p> -->
