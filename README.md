@@ -43,13 +43,15 @@
 </p>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
     alt="Top Languages" height="150"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=entheme=midnight-purple&hide_border=true&count_private=true"
     alt="GitHub Stats" height="150"/>
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amxn47&" alt="GitHub Streak" />
-</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amxn47theme=midnight-purple&hide_border=true&background=000000" alt="GitHub Streak" height="150"/>
+</p>
+
