@@ -1,6 +1,9 @@
-<a href="https://amxn47.io">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="150" width="300" >
-</a>
+<div style="height: 150; width: 300; align-items: center; justify-content: center;">
+  <a href="https://amxn47.io">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+      height="150" width="300">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
