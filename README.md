@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25yZmVhbHZuYXM4eGs5ajRsM2o5Zmcwb2p6YjQ1OTRiejVpYm43NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" >
+<img align="right" alt="Coding" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25yZmVhbHZuYXM4eGs5ajRsM2o5Zmcwb2p6YjQ1OTRiejVpYm43NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" >
 
 <!-- --- -->
 
@@ -41,19 +41,18 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
 </p>
-
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&card_width=400"
-    alt="Top Languages" height="150"/>
-</p>
-
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&count_private=true"
-       alt="GitHub Stats" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=amxn47&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="150"/>
-</p>
-
+<hr>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&card_width=200" 
+         alt="Top Languages" height="150"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&count_private=true&card_width=300"
+         alt="GitHub Stats" height="150"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-streak-stats-bice-nine.vercel.app?user=Amxn47&theme=midnight-purple&hide_border=true&border_radius=8&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500"
+         alt="GitHub Streak" height="150"/>
+  </a>
+</div>
