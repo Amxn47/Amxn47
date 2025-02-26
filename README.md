@@ -1,5 +1,6 @@
 <a href="https://amxn47.io">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5bHM1NzZ1YjRyenBna2doemw3ZjBiZGViNjI3cXNwbWMzMDF4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif" style="width: 100%; height: 150px; object-fit: cover;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5bHM1NzZ1YjRyenBna2doemw3ZjBiZGViNjI3cXNwbWMzMDF4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"
+       style="width: 100vw; height: 150px; object-fit: cover; display: block;">
 </a>
 
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
