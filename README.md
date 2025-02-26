@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!--   LinkedIn -->
-  <a href="https://linkedin.com/in/aman verma" target="blank">
+  <a href="https://www.linkedin.com/in/amxn/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
