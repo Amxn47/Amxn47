@@ -54,6 +54,6 @@
 </p>
 
 <p align="center">
-  <img src="https://your-vercel-url.vercel.app?user=amxn47&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://?user=amxn47&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
