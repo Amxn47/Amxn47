@@ -54,6 +54,6 @@
 </p>
 
 <p align="center">
-  <img src="https://?user=amxn47&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=amxn47&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
