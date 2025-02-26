@@ -43,8 +43,8 @@
 </p>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true"
-    alt="Top Languages" height="150" width="300"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&card_width=400"
+    alt="Top Languages" height="150"/>
 </p>
 
 <p>
@@ -54,9 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amxn47" 
-       alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=amxn47" alt="GitHub Streak" height="150"/>
 </p>
-
-
-
