@@ -1,9 +1,7 @@
-<div style="height: 150; width: 300; align-items: center; justify-content: center;">
-  <a href="https://amxn47.io">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+<a href="https://amxn47.io">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5bHM1NzZ1YjRyenBna2doemw3ZjBiZGViNjI3cXNwbWMzMDF4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"
       height="150" width="300">
-  </a>
-</div>
+</a>
 
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
