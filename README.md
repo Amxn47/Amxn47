@@ -43,7 +43,6 @@
 </p>
 <hr>
 <div style="display: flex">
-  <div width="50%">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&card_width=200" 
            alt="Top Languages" height="150"/>
@@ -52,11 +51,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&count_private=true&card_width=300"
            alt="GitHub Stats" height="150"/>
     </a>
-  </div>
-  <dvi width="50%">
     <a href="#">
       <img src="https://github-readme-streak-stats-bice-nine.vercel.app?user=Amxn47&theme=midnight-purple&hide_border=true&border_radius=8&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500"
            alt="GitHub Streak" height="150"/>
     </a>
-  </dvi>
 </div>
