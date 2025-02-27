@@ -20,8 +20,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=amxn47&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amxn47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/amxn47/amxn47/output/snake.svg" alt="Snake animation" />
-
-###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amxn47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
