@@ -2,57 +2,23 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5bHM1NzZ1YjRyenBna2doemw3ZjBiZGViNjI3cXNwbWMzMDF4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"
        style="width: 100vw; height: 150px; object-fit: cover; display: block;">
 </a>
-
+<div>
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
-
-<img align="right" alt="Coding" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25yZmVhbHZuYXM4eGs5ajRsM2o5Zmcwb2p6YjQ1OTRiejVpYm43NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" >
-
-<!-- --- -->
-
-- 🌱 Currently learning **DSA**
-- 🤝 Looking for **Career Opportunities**
-- 💬 Ask me about **Java and Web**
-- 📫 Reach me at: **amanverma21304@gmail.com**
-- ⚡ Fun fact: **I believe creativity is intelligence having fun!**
-
-<!-- --- -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!--   LinkedIn -->
-  <a href="https://www.linkedin.com/in/amxn/">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<!-- Language and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
-  <!-- <img src="#" alt="React" width="40" /> -->
-  <!-- <img src="#" alt="Node.js" width="40" /> -->
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40">
-  <!-- <img src="#" alt="Bootstrap" width="40" /> -->
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
-</p>
-<hr>
-<div style="display: flex">
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amxn47&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&card_width=200" 
-           alt="Top Languages" height="150"/>
-    </a>
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=amxn47&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&count_private=true&card_width=300"
-           alt="GitHub Stats" height="150"/>
-    </a>
-    <a href="#">
-      <img src="https://github-readme-streak-stats-bice-nine.vercel.app?user=Amxn47&theme=midnight-purple&hide_border=true&border_radius=8&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500"
-           alt="GitHub Streak" height="150"/>
-    </a>
 </div>
+# 💫 About Me:
+🌱 Currently learning DSA<br>🤝 Looking for Career Opportunities<br>💬 Ask me about Java and Web<br>📫 Reach me at: amanverma21304@gmail.com<br>⚡ Fun fact: I believe creativity is intelligence having fun!
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanverma21304@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amxn47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amxn47&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amxn47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amxn47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
