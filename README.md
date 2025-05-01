@@ -6,8 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 </div>
-# 💫 About Me:
-🌱 Currently learning DSA<br>🤝 Looking for Career Opportunities<br>💬 Ask me about Java and Web<br>📫 Reach me at: amanverma21304@gmail.com<br>⚡ Fun fact: I believe creativity is intelligence having fun!
+💫 About Me:<br>🤝 Looking for Career Opportunities<br>💬 Ask me about Web and Design<br>📫 Reach me at: amanverma21304@gmail.com<br>⚡ Fun fact: I believe creativity is intelligence having fun!
 
 
 ## 🌐 Socials:
