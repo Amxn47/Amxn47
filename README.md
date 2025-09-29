@@ -1,5 +1,5 @@
 <a href="https://amxn47.io">
-  <img src="https://i.redd.it/dp2kuk914o9y.gif"
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fdp2kuk914o9y.gif"
        style="width: 100vw; height: 150px; object-fit: cover; display: block;">
 </a>
 <div>
