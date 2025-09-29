@@ -1,5 +1,5 @@
 <a href="https://amxn47.io">
-  <img src="https://in.pinterest.com/pin/5207355814334389/"
+  <img src="https://i.redd.it/dp2kuk914o9y.gif"
        style="width: 100vw; height: 150px; object-fit: cover; display: block;">
 </a>
 <div>
