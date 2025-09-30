@@ -1,10 +1,10 @@
 <a href="https://amxn47.io">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdkbWJ4OXdxOGpjNnBvdHM2ZHk2dHl0NzY4c2M4cTZjcWU4MDk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-       style="width: 100vw; height: 150px; object-fit: cover; display: block;">
+       style="width: 100vw; height: 150px; object-fit: fill; display: block; overflow:hidden;">
 </a>
 <div>
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 </div>
 💫 About Me:<br>🤝 Looking for Career Opportunities<br>💬 Ask me about Web and Design<br>📫 Reach me at: amanverma21304@gmail.com<br>⚡ Fun fact: I believe creativity is intelligence having fun!
 
